@@ -37,14 +37,14 @@ This framework focuses on **logical anomalies in the 'shadow area'** often ignor
 
 ## Disclaimer
 
-This project is **for research and audit purposes only**.  
+This project is **for research and audit purpses only**.  
 It is **not intended** to bypass security measures, exploit systems, or perform any malicious actions.  
-All analysis is offline and safe to run on low-resource devices.
+All analysis is offline and safe to run on lowresource devices.
 
 ## Requirements
 
 - Python 3.x
-- No external libraries required (fully offline and lightweight)
+- No external libraris required (fully offline and lightweight)
 
 ## Usage
 
